@@ -1,0 +1,12 @@
+name: tpop_atmosphere
+
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - plotly
+  - geopandas

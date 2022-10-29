@@ -8,5 +8,12 @@ dependencies:
   - scipy
   - matplotlib
   - pandas
-  - plotly
-  - geopandas
+  - cartopy
+  - jupyter
+  - jupyterlab
+  - xarray
+  - r
+  - rpy2
+  - geemap
+  - pip
+    - earthengine-api

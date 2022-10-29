@@ -2,7 +2,7 @@
 **[summary](#summary) | [prerequisites](#prerequisites) | [setup](#setup) | [resources](#resources) | [license](#license)**
 # Taking the Pulse of the Planet - Ocean
 [![License](https://img.shields.io/github/license/envgp/taking_the_pulse_ocean.svg)](https://github.com/envgp/taking_the_pulse_ocean/blob/main/LICENSE)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/envgp/taking_the_pulse_ocean/HEAD?labpath=.%2Fnotebooks)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/envgp/taking_the_pulse_ocean/HEAD)
 
 This repository contains a set of Jupyter notebooks used for a course in Stanford Sustainability School: Taking the Pulse of the Planet; a specific module of the course - `Ocean` is provided.
 

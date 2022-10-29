@@ -1,10 +1,10 @@
 
 **[summary](#summary) | [prerequisites](#prerequisites) | [setup](#setup) | [resources](#resources) | [license](#license)**
-# Taking the Pulse of the Planet - Atmosphere
-[![License](https://img.shields.io/github/license/envgp/taking_the_pulse_atmosphere.svg)](https://github.com/envgp/taking_the_pulse_atmosphere/blob/main/LICENSE)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/envgp/taking_the_pulse_atmosphere/HEAD?labpath=.%2Fnotebooks)
+# Taking the Pulse of the Planet - ocean
+[![License](https://img.shields.io/github/license/envgp/taking_the_pulse_ocean.svg)](https://github.com/envgp/taking_the_pulse_ocean/blob/main/LICENSE)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/envgp/taking_the_pulse_ocean/HEAD?labpath=.%2Fnotebooks)
 
-This repository contains a set of Jupyter notebooks used for an undergraduate course in Stanford Sustainability School: Taking the Pulse of the Planet; a specific module of the course - `Atmosphere` is provided.
+This repository contains a set of Jupyter notebooks used for a course in Stanford Sustainability School: Taking the Pulse of the Planet; a specific module of the course - `Ocean` is provided.
 
 
 
@@ -44,15 +44,15 @@ to clone the repository, and `cd` into the `taking_the_pulse_atmosphere` directo
 cd taking_the_pulse_atmosphere
 ```
 
-### Step 3: Create `tpop_atmosphere` conda environment
+### Step 3: Create `tpop_ocean` conda environment
 
-From inside of the `taking_the_pulse_atmosphere` repository, create the `tpop_atmosphere` conda environment
+From inside of the `taking_the_pulse_ocean` repository, create the `tpop_ocean` conda environment
 ```
 conda env create -f environment.yml
 ```
 and activate the environment
 ```
-conda activate tpop_atmosphere
+conda activate tpop_ocean
 ```
 
 ### Step 4: Launching the notebooks

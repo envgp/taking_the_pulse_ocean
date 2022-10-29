@@ -1,6 +1,6 @@
 
 **[summary](#summary) | [prerequisites](#prerequisites) | [setup](#setup) | [resources](#resources) | [license](#license)**
-# Taking the Pulse of the Planet - ocean
+# Taking the Pulse of the Planet - Ocean
 [![License](https://img.shields.io/github/license/envgp/taking_the_pulse_ocean.svg)](https://github.com/envgp/taking_the_pulse_ocean/blob/main/LICENSE)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/envgp/taking_the_pulse_ocean/HEAD?labpath=.%2Fnotebooks)
 
@@ -59,7 +59,7 @@ conda activate tpop_ocean
 
 Once you have activated the conda environment, you can launch the notebooks
 ```
-jupyter notebook
+jupyter lab
 ```
 Jupyter will then launch in your web-browser.
 

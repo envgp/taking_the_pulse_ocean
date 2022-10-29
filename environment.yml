@@ -15,5 +15,4 @@ dependencies:
   - r
   - rpy2
   - geemap
-  - pip
-    - earthengine-api
+  - earthengine-api

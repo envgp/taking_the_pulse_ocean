@@ -32,11 +32,10 @@ jobs:
       run: |
         python --version
         conda env create -f environment.yml
-        source activate tpop_atmosphere
+        source activate tpop_ocean
         pip install -r requirements_dev.txt
     - name: Run Tests
       shell: bash
       run: |
-        source activate tpop_atmosphere
+        source activate tpop_ocean
         conda list
-        pytest .

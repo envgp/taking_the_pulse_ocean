@@ -1,4 +1,4 @@
-name: tpop_atmosphere
+name: tpop_ocean
 
 channels:
   - conda-forge
